@@ -1,0 +1,20 @@
+{
+    "name": "shihab/calculator",
+    "description": "this is a simple calculator package for laravel",
+    "autoload": {
+        "psr-4": {
+            "Shihab\\Calculator\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Muhaimin Shihab",
+            "email": "shihab@growtechbd.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
